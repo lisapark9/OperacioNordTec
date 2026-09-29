@@ -16,3 +16,4 @@ Pendent dedissenyar
 - Creació de l'estructura de carpetes
 ### Dia 2
 ### Dia 3
+### Dia 4
