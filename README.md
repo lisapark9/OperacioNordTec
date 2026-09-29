@@ -25,11 +25,11 @@ _Yelyzaveta_
 1. git add .
 2. git commit -m "message"
 3. git push origin <route>
-#### List
+#### List :shipit:
 1.La primera cosa
 2.La segona cosa
 3.La tercera cosa
-[Useful Git commands](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?utm_source=chatgpt.com#lists).:EMOJICODE:shipit:
+[Useful Git commands](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?utm_source=chatgpt.com#lists).
 | Command | What it does 
 |------------|--------|
 | git init    | Initializes a new Git repository in the current directory.  | 
