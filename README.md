@@ -3,35 +3,28 @@
 
 - [Operació NordTec Yelyzaveta Sadova ASIX1B](#operació-nordtec-yelyzaveta-sadova-asix1b)
   - [Índex](#índex)
-      - [Estat del projecte](#estat-del-projecte)
+  - [Estat del projecte](#estat-del-projecte)
+    - [Fet](#fet)
   - [Arquitectura de xarxa](#arquitectura-de-xarxa)
     - [Configuracions](#configuracions)
     - [1. Fitxer `.gitignore`](#1-fitxer-gitignore)
     - [2. Fitxer de configuració `.git/config`](#2-fitxer-de-configuració-gitconfig)
     - [3. Configuració de l'usuari](#3-configuració-de-lusuari)
   - [Incidències i solucions](#incidències-i-solucions)
-    - [Incidència 1: La imatge no es mostra al document](#incidència-1-la-imatge-no-es-mostra-al-document)
+    - [Incidència 1: La imatge no es mostra](#incidència-1-la-imatge-no-es-mostra)
   - [Reflexions tècniques](#reflexions-tècniques)
     - [Altres incidències](#altres-incidències)
-#### Estat del projecte
+## Estat del projecte
 
-**_Fet_**
-
-* S'ha creat el document del projecte.
-
-* S'ha creat l'índex amb enllaços als diferents apartats.
-
-**_Pendent_**
-
-* Completar l'arquitectura de xarxa.
-
-* Afegir les configuracions i explicar els fitxers de configuració.
-
-* Documentar les incidències i les seves solucions.
-
-* Explicar les decisions tècniques.
-
-* Escriure les reflexions tècniques.
+### Fet
+- Instal·lació de Visual Studio Code i Git.
+- Creació del repositori.
+- Creació de l'estructura de carpetes.
+- Creació inicial del README.md.
+- Completar l'arquitectura de xarxa i afegir les IP.
+- Documentar les configuracions.
+- Registrar les incidències i solucions.
+- Completar les decisions i reflexions tècniques.
 ## Arquitectura de xarxa
 
 ![Arquitectura de xarxa](./images/diagrama_xarxa.png)
@@ -63,12 +56,12 @@ Aquesta configuració s'utilitza per identificar l'autor dels commits.
 
 ## Incidències i solucions
 
-### Incidència 1: La imatge no es mostra al document
+### Incidència 1: La imatge no es mostra
 
-- **Missatge d'error exacte:** La imatge no es mostra al document Markdown.
-- **Quan:** Durant l'elaboració de l'apartat «Arquitectura de xarxa».
-- **Causa:** La ruta de la imatge o la sintaxi Markdown podia ser incorrecta.
-- **Solució:** S'ha revisat la sintaxi Markdown i s'ha comprovat que la ruta i el nom del fitxer coincideixin amb la ubicació real de la imatge.
+- **Missatge d'error exacte:** No es mostra cap missatge d'error; la imatge no apareix.
+- **Quan:** Durant l'elaboració de l'apartat d'arquitectura.
+- **Causa:** Encara no identificada.
+- **Solució:** Pendent de comprovar la ruta i el nom del fitxer.
 - **Detectada per:** @lisapark9
 - ## Decisions tècniques
 
