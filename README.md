@@ -1,8 +1,12 @@
 # Operació NordTec Yelyzaveta Sadova ASIX1B
-# Índex
-1. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?utm_source=chatgpt.com)
-2. [My Note](https://hackmd.io/?nav=overview)
-3. [Validate YAML Online.](https://yamlvalidator.dev/)
+## Índex
+
+- [Estat del projecte](#estat-del-projecte)
+- [Arquitectura de xarxa](#arquitectura-de-xarxa)
+- [Configuracions](#configuracions)
+- [Incidències i solucions](#incidències-i-solucions)
+- [Decisions tècniques](#decisions-tècniques)
+- [Reflexions tècniques](#reflexions-tècniques)
 #### Estat del projecte
 
 **_Fet_**
