@@ -1,8 +1,8 @@
 # Operació NordTec Yelyzaveta Sadova ASIX1B
 # Índex
-1. [Basic writing and formatting syntax](#https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?utm_source=chatgpt.com)
-2. [My Note](#https://hackmd.io/?nav=overview)
-3. [Validate YAML Online.](#https://yamlvalidator.dev/)
+1. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?utm_source=chatgpt.com)
+2. [My Note](https://hackmd.io/?nav=overview)
+3. [Validate YAML Online.](https://yamlvalidator.dev/)
 ## Objectiu (Objective)
 ### Desplegar, protegir i monitorar la infraestructura d'una empresa mitjaçant tecnologies actuals d'administració de sistemes
 ---
