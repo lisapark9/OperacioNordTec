@@ -26,7 +26,7 @@
 
 ![Arquitectura de xarxa](./images/diagrama_xarxa.png)
 
-Configuracions
+### Configuracions
 
 En aquest apartat s'expliquen els fitxers de configuració utilitzats per gestionar el projecte amb Git.
 
@@ -50,6 +50,20 @@ git config --global user.email "correu@example.com"
 ```
 
 Aquesta configuració s'utilitza per identificar l'autor dels commits.
+
+## Incidències i solucions
+
+### Incidència 1: La imatge no es mostra al document
+
+- **Missatge d'error exacte:** La imatge no es mostra al document Markdown.
+- **Quan:** Durant l'elaboració de l'apartat «Arquitectura de xarxa».
+- **Causa:** La ruta de la imatge o la sintaxi Markdown podia ser incorrecta.
+- **Solució:** S'ha revisat la sintaxi Markdown i s'ha comprovat que la ruta i el nom del fitxer coincideixin amb la ubicació real de la imatge.
+- **Detectada per:** @usuari
+
+### Altres incidències
+
+Si sorgeixen altres problemes durant el projecte, es documentaran seguint la mateixa estructura.
 
 ## Objectiu (Objective)
 ### Desplegar, protegir i monitorar la infraestructura d'una empresa mitjaçant tecnologies actuals d'administració de sistemes
