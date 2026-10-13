@@ -83,5 +83,6 @@ He après a utilitzar Markdown i GitHub per documentar un projecte. He tingut di
 ### Altres incidències
 
 Si sorgeixen altres problemes durant el projecte, es documentaran seguint la mateixa estructura.
+
 :shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit:
 
