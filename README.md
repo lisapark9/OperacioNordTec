@@ -1,4 +1,5 @@
-# Operació NordTec (NordTec Operatio)
+# Operació NordTec (NordTec Operatio) 
+# Yelyzaveta Sadova ASIX1B
 ## Objectiu (Objective)
 ### Desplegar, protegir i monitorar la infraestructura d'una empresa mitjaçant tecnologies actuals d'administració de sistemes
 ---
@@ -38,3 +39,5 @@ _Yelyzaveta_
 | git branch     | Lists all branches in the repository.    |
 | git log     | Displays the commit history of the current branch.  |
 | git pull     | Fetches changes from the remote repository and merges them into the current branch.    | 
+# Incidencies
+
