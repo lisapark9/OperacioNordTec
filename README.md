@@ -24,7 +24,7 @@
 * Escriure les reflexions tècniques.
 * ## Arquitectura de xarxa
 
-![Arquitectura de xarxa]("images\diagrama_xarxa.png")
+<img src="images\diagrama_xarxa.png" alt="Arquitectura de xarxa" width="700">
 ## Objectiu (Objective)
 ### Desplegar, protegir i monitorar la infraestructura d'una empresa mitjaçant tecnologies actuals d'administració de sistemes
 ---
