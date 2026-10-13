@@ -26,7 +26,7 @@
 
 ![Arquitectura de xarxa](./images/diagrama_xarxa.png)
 
-####### Configuracions
+Configuracions
 
 En aquest apartat s'expliquen els fitxers de configuració utilitzats per gestionar el projecte amb Git.
 
