@@ -3,6 +3,25 @@
 1. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?utm_source=chatgpt.com)
 2. [My Note](https://hackmd.io/?nav=overview)
 3. [Validate YAML Online.](https://yamlvalidator.dev/)
+#### Estat del projecte
+
+**_Fet_**
+
+S'ha creat el document del projecte.
+
+S'ha creat l'índex amb enllaços als diferents apartats.
+
+**_Pendent_**
+
+Completar l'arquitectura de xarxa.
+
+Afegir les configuracions i explicar els fitxers de configuració.
+
+Documentar les incidències i les seves solucions.
+
+Explicar les decisions tècniques.
+
+Escriure les reflexions tècniques.
 ## Objectiu (Objective)
 ### Desplegar, protegir i monitorar la infraestructura d'una empresa mitjaçant tecnologies actuals d'administració de sistemes
 ---
