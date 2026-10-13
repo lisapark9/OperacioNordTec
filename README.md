@@ -25,6 +25,32 @@
 ## Arquitectura de xarxa
 
 ![Arquitectura de xarxa](./images/diagrama_xarxa.png)
+
+####### Configuracions
+
+En aquest apartat s'expliquen els fitxers de configuració utilitzats per gestionar el projecte amb Git.
+
+### 1. Fitxer `.gitignore`
+
+- **Funció:** Indica quins fitxers o directoris Git ha d'ignorar i no ha de tenir en compte per al seguiment de canvis.
+- **Ús:** Permet evitar que s'afegeixin al repositori fitxers temporals o informació que no cal compartir.
+
+### 2. Fitxer de configuració `.git/config`
+
+- **Funció:** Emmagatzema la configuració específica del repositori local.
+- **Ús:** Pot contenir informació sobre el repositori remot, com ara `origin`, i altres opcions de configuració.
+
+### 3. Configuració de l'usuari
+
+Git permet configurar el nom i el correu electrònic que apareixen als commits mitjançant les ordres:
+
+```bash
+git config --global user.name "Nom Cognom"
+git config --global user.email "correu@example.com"
+```
+
+Aquesta configuració s'utilitza per identificar l'autor dels commits.
+
 ## Objectiu (Objective)
 ### Desplegar, protegir i monitorar la infraestructura d'una empresa mitjaçant tecnologies actuals d'administració de sistemes
 ---
