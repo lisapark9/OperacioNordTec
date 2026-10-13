@@ -59,7 +59,16 @@ Aquesta configuració s'utilitza per identificar l'autor dels commits.
 - **Quan:** Durant l'elaboració de l'apartat «Arquitectura de xarxa».
 - **Causa:** La ruta de la imatge o la sintaxi Markdown podia ser incorrecta.
 - **Solució:** S'ha revisat la sintaxi Markdown i s'ha comprovat que la ruta i el nom del fitxer coincideixin amb la ubicació real de la imatge.
-- **Detectada per:** @usuari
+- **Detectada per:** @lisapark9
+- ## Decisions tècniques
+
+- **Eina:** Git i GitHub per gestionar i guardar els canvis del projecte.
+- **Format:** Markdown per organitzar la documentació amb títols, enllaços i imatges.
+- **Alternatives:** GitLab o Bitbucket.
+
+## Reflexions tècniques
+
+He après a utilitzar Markdown i GitHub per documentar un projecte. He tingut dificultats per mostrar correctament les imatges i he après a revisar-ne les rutes.
 
 ### Altres incidències
 
