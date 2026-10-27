@@ -14,6 +14,7 @@
     - [Incidència 1: La imatge no es mostra](#incidència-1-la-imatge-no-es-mostra)
   - [Reflexions tècniques](#reflexions-tècniques)
     - [Altres incidències](#altres-incidències)
+  - [10/27/2026 WORK](#10272026-work)
 ## Estat del projecte
 
 ### Fet
@@ -79,3 +80,8 @@ Si sorgeixen altres problemes durant el projecte, es documentaran seguint la mat
 
 :shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit::shipit:
 
+## 10/27/2026 WORK
+
+En resum: el client no tenia internet perquè al script d’iptables del router faltava la regla de NAT (MASQUERADE) per a la xarxa 192.168.20.0/24. Has corregit la línia i has tornat a executar el script, i ara ping 8.8.8.8 funciona.
+
+(In short: the client had no internet because the router’s iptables script lacked the MASQUERADE rule for 192.168.20.0/24. You fixed that line, re-ran the script, and now it works.)
