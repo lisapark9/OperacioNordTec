@@ -15,6 +15,7 @@
   - [Reflexions tècniques](#reflexions-tècniques)
     - [Altres incidències](#altres-incidències)
   - [10/27/2026 WORK](#10272026-work)
+  - [11/3/2026](#1132026)
 ## Estat del projecte
 
 ### Fet
@@ -84,4 +85,8 @@ Si sorgeixen altres problemes durant el projecte, es documentaran seguint la mat
 
 En resum: el client no tenia internet perquè al script d’iptables del router faltava la regla de NAT (MASQUERADE) per a la xarxa 192.168.20.0/24. Has corregit la línia i has tornat a executar el script, i ara ping 8.8.8.8 funciona.
 
-(In short: the client had no internet because the router’s iptables script lacked the MASQUERADE rule for 192.168.20.0/24. You fixed that line, re-ran the script, and now it works.)
+
+(In short: the client had no internet because the router’s iptables script lacked the MASQUERADE rule for 192.168.20.0/24. I fixed that line, re-ran the script, and now it works.)
+
+## 11/3/2026
+WE DID KAHOOT 
